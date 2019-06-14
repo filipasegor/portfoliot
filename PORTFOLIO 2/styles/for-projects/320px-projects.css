@@ -1,0 +1,114 @@
+@media (min-width: 320px){
+
+
+
+  .main-content {
+    padding: 20px 0px 0px 56px;
+  }
+
+  nav {
+    background-color: #FFE8CB;
+    height: 120vh;
+    position: fixed;
+    width: 50px;
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+
+  .logo{
+    width: 40px;
+  }
+
+  .menu-heading {
+
+
+    margin-top: 127px;
+    font-size: 25px;
+    letter-spacing: 1.54px;
+    /* margin-right: 10px; */
+    margin-bottom: 449px;
+
+
+  }
+
+
+  .projects-heading{
+
+    font-size: 25px;
+    padding-bottom: 50px;
+    width: 81vw;
+
+  }
+
+
+  .projects-heading li{
+    padding-left: 25px;
+  }
+
+
+
+  .medium-section h2{
+
+    font-size: 20px;
+    padding: 5px 0px 5px 0px;
+
+  }
+
+  .big-container h2{
+
+    font-size: 20px;
+    padding: 5px 0px 5px 0px;
+    line-height: 28px;
+
+  }
+
+  .medium-section, .big-container  p{
+
+    font-size: 13px;
+    line-height: 22px;
+    max-width: 300px;
+
+  }
+
+
+
+  .medium-container-right img{
+    width: 81vw;
+
+  }
+
+  .medium-container-left img{
+    width: 81vw;
+  }
+
+  .big-container img{
+    width: 81vw;
+  }
+
+  .medium-container-right, .medium-container-left, .big-container{
+    padding-bottom: 50px;
+  }
+
+
+  .footer ul{
+    font-size: 11px;
+    padding-bottom: 100px;
+
+  }
+
+  .footer li:last-child{
+    padding: 20px 0px 0px 0px;
+
+  }
+
+  .footer li:nth-child(2n){
+
+    padding: 20px 0px 0px 0px;
+
+  }
+
+
+
+
+}
